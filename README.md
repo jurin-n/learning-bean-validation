@@ -1,0 +1,1 @@
+mvn archetype:generate -DinteractiveMode=false -DarchetypeVersion=RELEASE -DgroupId=com.jurin_n -DartifactId=learning-bean-validation -Dversion=1.0 -Dpackage=com.jurin_n.validation -Dpackaging=jar
